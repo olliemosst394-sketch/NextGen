@@ -1,6 +1,7 @@
 // components/PortfolioBalance.tsx
 'use client';
 
+
 import { useAccount, useBalance, useReadContracts } from 'wagmi';
 import { formatEther, formatUnits } from 'viem';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
