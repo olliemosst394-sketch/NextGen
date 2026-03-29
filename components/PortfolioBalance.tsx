@@ -1,19 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 // components/PortfolioBalance.tsx
 'use client';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 import { useAccount, useBalance, useReadContracts } from 'wagmi';
 import { formatEther, formatUnits } from 'viem';
